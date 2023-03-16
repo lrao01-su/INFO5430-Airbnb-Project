@@ -1,6 +1,8 @@
 # INFO5430-Airbnb-Project
 INFO5430 Group Final Project "What makes a 5 star Airbnb" 
 Team Member: Linjing Rao, Mingyu Huang, Yubang Wu
+
+
 Staying at an Airbnb instead of a regular hotel has become the new fashion for travelers around
 the world, the temptation to get a taste of the local lifestyle in the exotic land ranging from a
 cheap living room coach stay to a luxurious private mansion can be irresistible. This rising
